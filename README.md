@@ -1,1 +1,1 @@
-# gpsmusic
+# repository for code projects
