@@ -1,0 +1,39 @@
+body {
+    margin: 32px;
+font-family: 'Noto', sans-serif;
+font-size: 16px;
+line-height: 20px;
+background-color: lightblue;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+a {
+    font-weight: bold;
+    color: blue;
+}
+
+button {
+border-radius: 4px;
+padding: 16px;
+background-color: white;
+font-size: 16px;
+border: none;
+text-decoration: none;
+display: inline-block;
+box-shadow: 0 4px 4px 0 rgba(0,0,0,0.24); 
+}
+
+button:hover {
+    background-color: lightcyan;
+    box-shadow: 0 4px 4px 0 rgba(0,0,0,0.24);    
+}
+
+button:active {
+    background-color: lightcyan;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.24);    
+    transform: translateY(2px);
