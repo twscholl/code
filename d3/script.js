@@ -19,6 +19,10 @@ var data = {
 				{
 					"name": "C3",
 					"value": 200
+				},
+				{
+					"name": "C3",
+					"value": 200
 				}
 			]
 		},
