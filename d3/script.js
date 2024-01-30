@@ -17,11 +17,11 @@ var data = {
 					"value": 200
 				},
 				{
-					"name": "C3",
+					"name": "C4",
 					"value": 200
 				},
 				{
-					"name": "C3",
+					"name": "C5",
 					"value": 200
 				}
 			]
