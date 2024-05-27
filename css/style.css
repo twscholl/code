@@ -1,19 +1,21 @@
 body {
     margin: 32px;
-font-family: 'Noto', sans-serif;
+font-family: 'itc-avant-garde-gothic-pro', sans-serif;
+font-weight: 300;
+font-style: normal;
 font-size: 16px;
 line-height: 20px;
-background-color: lightblue;
+background-color: rgb(255, 255, 255);
 }
 
 h1 {
-    font-weight: bold;
+    font-weight: 700;
     font-size: 24px;
     line-height: 28px;
 }
 
 a {
-    font-weight: bold;
+    font-weight: 500;
     color: blue;
 }
 
